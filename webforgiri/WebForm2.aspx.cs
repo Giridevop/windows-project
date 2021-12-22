@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace webforgiri
 {
-    public partial class WebForm1 : System.Web.UI.Page
+    public partial class WebForm2 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -16,8 +16,7 @@ namespace webforgiri
 
         protected void btn_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Webform2.aspx", false);
-
+            
         }
     }
 }

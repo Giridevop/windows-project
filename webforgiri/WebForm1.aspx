@@ -13,6 +13,9 @@
             Sucessfully integrated in jenkins
             Welcome 
         </div>
+             <div style="padding-left:20px;padding-right:20px; margin:auto;background-color:aliceblue;width:100%;font-size:20px;font-weight:bold;text-align:center;padding:15px;">
+           <asp:Button ID="btn" runat="server" Text="save" OnClick="btn_Click"/>
+        </div>
     </form>
 </body>
 </html>

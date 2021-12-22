@@ -10,7 +10,7 @@
 namespace webforgiri {
     
     
-    public partial class WebForm1 {
+    public partial class WebForm2 {
         
         /// <summary>
         /// form1 control.
@@ -20,14 +20,5 @@ namespace webforgiri {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        
-        /// <summary>
-        /// btn control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn;
     }
 }
