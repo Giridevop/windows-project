@@ -1,0 +1,7 @@
+C:\Users\Administrator\.jenkins\workspace\welcomeproject\webforgiri\bin\webforgiri.dll.config
+C:\Users\Administrator\.jenkins\workspace\welcomeproject\webforgiri\bin\webforgiri.dll
+C:\Users\Administrator\.jenkins\workspace\welcomeproject\webforgiri\bin\webforgiri.pdb
+C:\Users\Administrator\.jenkins\workspace\welcomeproject\webforgiri\obj\Debug\webforgiri.csprojAssemblyReference.cache
+C:\Users\Administrator\.jenkins\workspace\welcomeproject\webforgiri\obj\Debug\webforgiri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\.jenkins\workspace\welcomeproject\webforgiri\obj\Debug\webforgiri.dll
+C:\Users\Administrator\.jenkins\workspace\welcomeproject\webforgiri\obj\Debug\webforgiri.pdb
