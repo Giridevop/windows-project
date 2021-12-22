@@ -11,6 +11,7 @@
         <div style="padding-left:20px;padding-right:20px; margin:auto;background-color:aliceblue;width:100%;font-size:20px;font-weight:bold;text-align:center;padding:15px;">
             Hello Good Evening satvat infosol pvt ltd!....
             Sucessfully integrated in jenkins
+            Welcome 
         </div>
     </form>
 </body>
